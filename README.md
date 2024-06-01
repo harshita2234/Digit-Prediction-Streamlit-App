@@ -22,6 +22,7 @@ A Streamlit application for predicting handwritten digits using a trained machin
    python3 -m pip install opencv-python torch numpy streamlit streamlit-drawable-canvas plotly torchvision pandas matplotlib tqdm
    #or
    python -m pip install opencv-python torch numpy streamlit streamlit-drawable-canvas plotly torchvision pandas matplotlib tqdm
+3. Unzip the MNIST folder
 
 ## Run the App
 To run the Streamlit app, navigate to the project directory and execute:
