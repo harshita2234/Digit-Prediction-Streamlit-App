@@ -1,6 +1,12 @@
 # Digit Prediction Streamlit Web App
 
 A Streamlit application for predicting handwritten digits using a trained machine learning model.
+<img width="490" alt="image" src="https://github.com/harshita2234/Digit-Prediction-Streamlit-App/assets/97393648/c775dd0d-eb9e-46b8-b37b-d7109325afb8">
+
+<img width="485" alt="image" src="https://github.com/harshita2234/Digit-Prediction-Streamlit-App/assets/97393648/8d4e77db-0875-4447-9eca-287bf30ef8c2">
+<img width="564" alt="image" src="https://github.com/harshita2234/Digit-Prediction-Streamlit-App/assets/97393648/5fe41129-9b15-4af9-aaba-194719700dcb">
+
+
 
 ## Project Structure
 
