@@ -1,4 +1,4 @@
-# Digit-Prediction-Streamlit-App
+# Digit Prediction Streamlit Web App
 
 A Streamlit application for predicting handwritten digits using a trained machine learning model.
 
